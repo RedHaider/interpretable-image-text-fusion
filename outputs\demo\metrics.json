@@ -1,0 +1,15 @@
+{
+  "image_only": {
+    "auroc": 0.712231919079769
+  },
+  "text_only": {
+    "auroc": 0.736519417753141
+  },
+  "fused": {
+    "auroc": 0.7376705227322824
+  },
+  "ablation": {
+    "without_image_auroc": 0.66350997216122,
+    "without_text_auroc": 0.6441126286829236
+  }
+}
